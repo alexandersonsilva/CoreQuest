@@ -4,31 +4,24 @@
 
 ## About
 
-CoreQuest is a long-term project created to document my journey of learning computer systems.
+CoreQuest is a long-term engineering project created to document my journey of learning how computer systems work.
 
-The goal is to gain a deep understanding of how hardware, operating systems, firmware, networking, and software work together.
+The objective is not simply to learn technologies, but to understand the principles behind them—from hardware and embedded systems to operating systems, networking, firmware, reverse engineering, and cybersecurity.
 
-Rather than simply learning how to use technologies, this project focuses on understanding why they exist and how they work.
+Every experiment, challenge, and discovery will be documented in this repository.
 
-## Objectives
+## Mission
 
-- Learn Linux
-- Learn Computer Networking
-- Study Computer Hardware
-- Study Embedded Systems
-- Study Firmware
-- Explore Reverse Engineering
-- Learn Cybersecurity
-- Document every step of the journey
+To understand computer systems from silicon to software.
 
-## Repository Structure
+## Philosophy
 
-- `docs/`
-- `labs/`
-- `scripts/`
-- `images/`
+- Learn by understanding, not by memorization.
+- Document everything.
+- Every question is worth asking.
+- Build knowledge layer by layer.
+- Curiosity is more important than speed.
 
-## Status
+## Current Status
 
-🚧 Work in Progress
-
+🚧 The journey has just begun.
