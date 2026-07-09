@@ -1,8 +1,14 @@
 # Mission 001 — What Happens When the Power Button Is Pressed?
 
-Status: ✅ Completed
+**Difficulty:** ⭐☆☆☆☆
 
----
+**Category:** Computer Architecture
+
+**Status:** ✅ Completed
+
+**Estimated Study Time:** 40 minutes
+
+**Date:** July 2026
 
 ## Objective
 
