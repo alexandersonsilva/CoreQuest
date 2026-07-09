@@ -29,24 +29,6 @@ To understand computer systems from silicon to software.
 - Curiosity is more important than speed.
 
 ---
-
-## Repository Structure
-
-```text
-CoreQuest/
-├── README.md
-├── MANIFESTO.md
-├── ROADMAP.md
-├── JOURNAL.md
-├── RESOURCES.md
-├── docs/
-├── labs/
-├── images/
-└── scripts/
-```
-
----
-
 ## Current Status
 
 🚧 The journey has just begun.
