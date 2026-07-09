@@ -37,7 +37,6 @@ CoreQuest/
 ├── README.md
 ├── MANIFESTO.md
 ├── ROADMAP.md
-├── MISSIONS.md
 ├── JOURNAL.md
 ├── RESOURCES.md
 ├── docs/
