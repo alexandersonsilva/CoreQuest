@@ -1,55 +1,34 @@
-CoreQuest Missions
-Every mission represents a new step toward understanding computer systems from silicon to software.
+# CoreQuest
 
-Mission Format
-Every mission follows the same structure.
+> Understanding computer systems from silicon to software.
 
-Objective
-What is the purpose of this mission?
+## About
 
-Theory
-What concepts should be understood before starting?
+CoreQuest is a long-term project created to document my journey of learning computer systems.
 
-Practice
-What practical activities will be performed?
+The goal is to gain a deep understanding of how hardware, operating systems, firmware, networking, and software work together.
 
-Documentation
-What should be documented in the repository?
+Rather than simply learning how to use technologies, this project focuses on understanding why they exist and how they work.
 
-Conclusion
-What was learned?
+## Objectives
 
-Open Questions
-What still needs to be understood?
+- Learn Linux
+- Learn Computer Networking
+- Study Computer Hardware
+- Study Embedded Systems
+- Study Firmware
+- Explore Reverse Engineering
+- Learn Cybersecurity
+- Document every step of the journey
 
-Mission 000
-Title
-Project Foundation
+## Repository Structure
 
-Status
-✅ Completed
+- `docs/`
+- `labs/`
+- `scripts/`
+- `images/`
 
-Objective
-Create the CoreQuest GitHub repository and define its purpose.
+## Status
 
-Mission 001
-Title
-Build the CoreQuest Structure
-
-Status
-🚧 In Progress
-
-Objective
-Create the initial documentation structure that will support the entire project.
-
-Upcoming Missions
-Mission 002 — Binary Numbers
-Mission 003 — Boolean Logic
-Mission 004 — Computer Architecture
-Mission 005 — How a CPU Works
-Mission 006 — Memory Fundamentals
-Mission 007 — Linux Basics
-Mission 008 — Git Fundamentals
-Mission 009 — Networking Fundamentals
-Mission 010 — Exploring the Huawei HG8245W5-6T Hardware
+🚧 Work in Progress
 
